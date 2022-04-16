@@ -1,4 +1,4 @@
-# hidit
+# HidIt
 The Forbiden Chat App
 
 App that is not to be discussed
